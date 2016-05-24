@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="index" class="container">
+		<Button id="btnPopup">Launch Popup</Button>
+	</Window>
+</Alloy>

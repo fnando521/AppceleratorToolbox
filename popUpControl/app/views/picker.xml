@@ -1,0 +1,6 @@
+<Alloy>
+	<Window>
+		<Picker id="pickerControl" onChange="report"></Picker>
+	</Window>
+	
+</Alloy>
